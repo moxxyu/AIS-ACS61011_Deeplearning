@@ -1,3 +1,5 @@
+Final mark:   83/100.
+
 Description:  This report is a script without plots and codes.
 
 Author:       moxxyu
